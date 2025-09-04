@@ -1,2 +1,4 @@
-# AI-ML
-This repository contains the things i have learnt and implemented in AI-ML.
+# Neural Network from scratch
+Implemented an artificial neural network form scratch in python with numpy and pandas.
+
+
